@@ -1,0 +1,28 @@
+{
+  "name": "github-issue-url",
+  "version": "1.0.0",
+  "description": "Generates a url/query-string that populates the github issue form",
+  "main": "index.js",
+  "dependencies": {
+    "redent": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "github",
+    "issues",
+    "issue"
+  ],
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbachmann/github-issue-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbachmann/github-issue-url/issues"
+  },
+  "homepage": "https://github.com/marcbachmann/github-issue-url#readme"
+}
